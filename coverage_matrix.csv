@@ -1,0 +1,14 @@
+dimension,papers,denominator,share_percent,category,notes
+Genuinely maneuvering target,20,57,35,threat model,Target executes real evasive maneuvers rather than constant velocity
+Monte Carlo statistical validation,18,57,32,validation,Results reported over randomized trials rather than single runs
+Estimator or measurement noise in the loop,14,57,25,estimation,Guidance operates on estimated rather than perfect relative state
+Fully coupled 3D engagement,10,57,18,dynamics,Three dimensional engagement without planar decoupling
+Seeker FOV enforced as a hard constraint,7,57,12,constraints,Field of view limit enforced in synthesis not post hoc
+Input saturation embedded in synthesis,7,57,12,constraints,Actuator limits inside the control law rather than applied by clipping
+Computation time measured on a real processor,6,57,11,realizability,Runtime measured on hardware rather than estimated
+Autopilot or actuator dynamics inside stability proof,3,57,5,dynamics,Stability claim accounts for inner loop dynamics
+Flight test,3,57,5,validation,All counter drone and below 15 m/s closing speed
+Six degree of freedom airframe simulation,2,57,4,dynamics,Full rigid body simulation including attitude
+Guarantee covering a learned component,1,57,2,learning,Formal guarantee that extends to the neural component
+Communication delay or packet loss modelled,0,15,0,cooperative,Denominator is the 15 cooperative guidance papers only
+Hardware in the loop,0,57,0,validation,No paper in the corpus reports HIL validation
