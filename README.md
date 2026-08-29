@@ -2,7 +2,7 @@
 
 **How rigorously does the learning-based interceptor guidance literature validate its own results?**
 
-Evidence base: **57 papers (2021-2026) read in full text**, plus 54 indexed journal papers held in reserve.
+Evidence base: **57 papers (2021-2026) read in full**, plus 54 indexed journal papers held in reserve.
 
 ## Why this exists
 
